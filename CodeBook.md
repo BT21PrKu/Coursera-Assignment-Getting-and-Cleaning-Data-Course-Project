@@ -6,12 +6,12 @@ For additional context and background information on this dataset, please refer 
 
 ## Variables
 ### 1.Subject
-Identifies the participant in the study.
+-Identifies the participant in the study.
 
 -Integer values from 1 to 30.
 
 ### 2.ActivityLabel
-Descriptive labels for the activities performed by the subjects.
+-Descriptive labels for the activities performed by the subjects.
 
 -The possible values are: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
