@@ -25,6 +25,7 @@ Descriptive labels for the activities performed by the subjects.
    - tBodyAccStdZ
      
 -Gravity Accelerometer Signals (Time Domain):
+
 -tGravityAccMeanX
 -tGravityAccMeanY
 -tGravityAccMeanZ
