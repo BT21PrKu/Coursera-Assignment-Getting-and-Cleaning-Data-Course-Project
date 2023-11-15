@@ -1,6 +1,7 @@
 # CodeBook for Tidy_Data
 ## Data Set 
 The dataset described in this code book is available in the "tidy_data.txt" file within this repository.
+The original dataset : `https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip`
 For additional context and background information on this dataset, please refer to the README.md file provided in this repository.
 
 ## Variables
