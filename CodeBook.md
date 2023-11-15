@@ -1,4 +1,4 @@
-# CodeBook for TIdy_Data
+# CodeBook for Tidy_Data
 ## Data Set 
 The dataset described in this code book is available in the "tidy_data.txt" file within this repository.
 For additional context and background information on this dataset, please refer to the README.md file provided in this repository.
