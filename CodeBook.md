@@ -15,12 +15,14 @@ Descriptive labels for the activities performed by the subjects.
 ### 3.Mean and Standard Deviation Measurements
 - The dataset includes various measurements on mean and standard deviation. These measurements were extracted from the original dataset based on their names, which include "mean" or "std."
 -Accelerometer Signals (Time Domain):
+   
    - tBodyAccMeanX
    - tBodyAccMeanY
    - tBodyAccMeanZ
    - tBodyAccStdX
    - tBodyAccStdY
    - tBodyAccStdZ
+     
 -Gravity Accelerometer Signals (Time Domain):
    - tGravityAccMeanX
    - tGravityAccMeanY
