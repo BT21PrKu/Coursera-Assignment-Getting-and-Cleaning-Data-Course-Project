@@ -26,12 +26,12 @@ Descriptive labels for the activities performed by the subjects.
      
 -Gravity Accelerometer Signals (Time Domain):
 
-    - tGravityAccMeanX
-    - tGravityAccMeanY
-    - tGravityAccMeanZ
-    - tGravityAccStdX
-    - tGravityAccStdY
-    - tGravityAccStdZ
+   - tGravityAccMeanX
+   - tGravityAccMeanY
+   - tGravityAccMeanZ
+   - tGravityAccStdX
+   - tGravityAccStdY
+   - tGravityAccStdZ
      
 -Accelerometer Jerk Signals (Time Domain):
 
